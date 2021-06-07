@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308088094499",
+    "firebase_url": "https://diiscovery---landmark-guide-default-rtdb.firebaseio.com",
+    "project_id": "diiscovery---landmark-guide",
+    "storage_bucket": "diiscovery---landmark-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308088094499:android:e303d7f0befde43666d696",
+        "android_client_info": {
+          "package_name": "com.landmarkguideapp.diiscovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308088094499-2qlhdi7eu78prcacnbfigql0a6snknk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgLvAC6P5o-lbOTqEJKrRYSvU1fT7uYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308088094499-2qlhdi7eu78prcacnbfigql0a6snknk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
